@@ -14,3 +14,4 @@ RUN pip install python-heatclient
 RUN pip install python-saharaclient
 RUN pip install python-swiftclient
 RUN pip install python-troveclient
+RUN pip install python-openstackclient
